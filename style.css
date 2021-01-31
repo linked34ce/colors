@@ -4,9 +4,9 @@ body {
 
 div {
     padding-left: 10px;
-    height: 14%;
+    height: 14.3%;
     color: #ffffff;
-    font-size: 6vh;
+    font: 6.3vh Arial;
     vertical-align: middle;
     white-space: nowrap;
 }
