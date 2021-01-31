@@ -4,11 +4,16 @@ body {
 
 div {
     padding-left: 10px;
-    height: 10%;
-    white-space: nowrap;
+    height: 20%;
     color: #ffffff;
     font-size: 8.5vh;
     vertical-align: middle;
+    white-space: nowrap;
+}
+
+.color {
+    text-align: right;
+    padding-right: 10px;
 }
 
 #yu {
