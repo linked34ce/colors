@@ -1,0 +1,52 @@
+body {
+    margin: 0%;
+}
+
+div {
+    padding-left: 10px;
+    height: 10%;
+    white-space: nowrap;
+    color: #ffffff;
+    font-size: 8.5vh;
+    vertical-align: middle;
+}
+
+#yu {
+    background-color: #1d1d1d;
+}
+
+#ayumu {
+    background-color: #ed7d95;
+}
+
+#kasumi {
+    background-color: #e7d600;
+}
+
+#shizuku {
+    background-color: #01b7ed;
+}
+
+#karin {
+    background-color: #485ec6;
+}
+
+#ai {
+    background-color: #ff5800;
+}
+
+#kanata {
+    background-color: #a664a0;
+}
+
+#setsuna {
+    background-color: #d81c2f;
+}
+
+#emma {
+    background-color: #84c36e;
+}
+
+#rina {
+    background-color: #9ca5b9;
+}
